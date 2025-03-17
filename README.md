@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Oi eu sou a Marcelo Lacerda, estudante de analise de dados!
+## Oi eu sou a Marcelo Lacerda, estudante de Analise e Desenvolvimento de Sistemas!
 <div align="center">
   <a href="https://github.com/marcelolacerda27">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelolacerda27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
